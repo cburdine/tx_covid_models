@@ -5,13 +5,13 @@ Some scripts (Jupyter notebooks) that model the spread of COVID-19 in the state 
 
 ## Dependencies
 
-To view these notebooks, you will need to install the jupyter notebook system, which can be done with:
+To view these notebooks, you will need to install the jupyter notebook system in your Python3 environment, which can be done with:
 
 ```
 pip3 install notebook
 ```
 
-The remaining Python dependencies are below. These can also be installed with ``pip3 install <dependency>``:
+The remaining Python3 dependencies are below. These can also be installed with ``pip3 install <dependency>``:
 
 ```
 # dependencies
@@ -28,7 +28,7 @@ Additional dependencies may need to be installed to read the Excel spreadsheet d
 
 ## Jupyter Notebooks
 
-An index of the Jupyter notebooks in this repository are given below:
+An index of the Jupyter notebooks in this repository is given below:
 
 * **SIR Model Examples** - A notebook with some examples of the SIR model in action. This is a recommended starting point for those unfamiliar with the SIR model.
 
